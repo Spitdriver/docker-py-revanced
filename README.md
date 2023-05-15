@@ -143,6 +143,7 @@ By default, script build the version as recommended by Revanced team.
     16. [backdrops](https://backdrops.en.uptodown.com/android)
     17. [expensemanager](https://apksos.com/app/com.ithebk.expensemanager)
     18. [tasker](https://www.apkmirror.com/apk/joaomgcd/tasker-crafty-apps-eu/)
+    19. [irplus](https://irplus.en.uptodown.com/android)
 
     <br>Please verify the source of original APKs yourself with links provided. I'm not responsible for any damaged caused.
     If you know any better/safe source to download clean. Please raise a PR.
@@ -270,5 +271,8 @@ By default, script build the version as recommended by Revanced team.
     ```
 15. Sample Envs<br>
     <img src="https://i.imgur.com/ajSE5nA.png" width="600" style="left">
+16. Make your Action has write access. If not click [here](https://github.
+    com/nikhilbadyal/docker-py-revanced/settings/actions). In the bottom give read and write access to Actions.
+    <img src="https://i.imgur.com/STSv2D3.png" width="400">
 
 Thanks to [@aliharslan0](https://github.com/aliharslan0/pyrevanced) for his work.
